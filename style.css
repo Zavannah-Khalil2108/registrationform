@@ -1,0 +1,17 @@
+h1 {
+    font-weight: bold;
+    font-size: 8ch;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    
+}
+
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18;
+    margin-bottom: 30cm;
+    border-left-style: solid;
+    border-right-style: solid;
+    background-color: rgb(246, 186, 248);
+}
